@@ -1,0 +1,308 @@
+nom,parent,primary-role,secondary-role,engagement-type,sec-engagement-type,public-private,Institutional Focus,node-color
+Deezer,Access Industries,Retailer,,DTC,,,,#F7D7D1
+Thalia.de,Advent International,Retailer,,DTC,,,,#EFB4A9
+Bol,Ahold Delhaize,Retailer,,DTC,,,,#E78C7B
+Alliance Entertainment,Alliance Entertainment Holding Corp,Distributor,,B2B,,,,#A5CED7
+Google Play,Alphabet,Retailer,,DTC,,,,#E58371
+Youtube,Alphabet,Parent,,,,,,#D7C7DD
+ACX,Amazon,Distributor,Producer,,,,,#6AADBC
+Audible,Amazon,Retailer,,DTC,,,,#E37B68
+Brilliance Publishing,Amazon,Publisher,,,,,,#59A998
+Books-a-Million,"American Public Education, Inc.",Retailer,,DTC,,,,#E1735E
+Apple Audiobooks,Apple,Retailer,,DTC,,,,#E06B55
+Xlibris,Author Solutions,Distributor,,B2B,,,,#4C9DAE
+Binge Books,Authors A.I,Retailer,,DTC,,,,#DE624B
+Axiell,Axiell Group AB,Retailer,,DTC,,,,#D1563F
+Penguin Random House,Bertelsmann,Parent,,,,,,#B498C0
+Skoobe,Bertelsmann and Holtzbrinck Publishing Group,Retailer,,DTC,,,,#C6513B
+Blackstone Audio,Blackstone Publishing,Distributor,,B2B,,,,#3892A5
+Blackstone Indie,Blackstone Publishing,Retailer,,B2B,,,,#BB4D38
+Blackstone Library,Blackstone Publishing,Retailer,,B2B,,,,#B04835
+Blackstone Wholesale,Blackstone Publishing,Retailer,,B2B,,,,#A54432
+Downpour,Blackstone Publishing,Retailer,,DTC,,,,#9A3F2E
+Tidal,Block,Retailer,,DTC,,,,#8F3B2B
+Bokus Play,Bokusgruppen AB,Retailer,,DTC,,,,#843628
+Bonnier Books UK,Bonnier AB,Parent,,,,,,#8C609E
+Bookbeat,Bonnier AB,Retailer,,DTC,,,,#63281E
+twelve point,Bonnier Books UK,Audio Imprint,,,,,,#FFEFD1
+AudiobooksNow,Book Lender,Retailer,,DTC,,,,#58241A
+Tocalivros,Campsoft,Retailer,,DTC,,,,#4D1F17
+Independent Publishers Group,Chicago Review Press,Distributor,,B2B,,,,#2C8CA0
+CNPeReading Audio,"China National Publications Import and Export (Group) Co., Ltd (CNEP)",Retailer,,DTC,,,,#421B14
+Tumblebooks,Comcast Xfinity,Retailer,,DTC,,,,#F7D7D1
+Aldiko,Demarque,Retailer,,DTC,,,,#EFB4A9
+Cantook Education,Demarque,Distributor,,B2B,,,Educational Institutions,#21859A
+Cantook Libraries,Demarque,Distributor,,B2B,,,Libraries,#14798E
+Cantook Publishers,Demarque,Distributor,,B2B,,,,#137286
+Booktopia,digiDirect,Retailer,,DTC,,,,#E78C7B
+AudiobookStore.com,DME Media,Retailer,,DTC,,,,#E58371
+EBSCO,EBSCO Industries,Retailer,,B2B,,,Institutional,#E37B68
+Divibib,EKZ Bibliotheksservice GmbH,Retailer,,Institutional,,,,#E1735E
+Naxos,EKZ Bibliotheksservice GmbH,Retailer,,DTC,,,,#E06B55
+Pocket FM,EKZ Bibliotheksservice GmbH,Retailer,,DTC,,,,#DE624B
+Barnes & Noble,Elliott Advisors,Retailer,,DTC,,,,#D1563F
+La Feltrinelli,Feltrinelli Group,Retailer,,DTC,,,,#C6513B
+Follett Learning,Follett Corporation,Distributor,,B2B,,,,#126C7F
+Kuku FM,Fundamentum,Retailer,,DTC,,,,#BB4D38
+Zebralution,GEMA,Distributor,,B2B,,,,#116677
+Blinkist,Go1,Retailer,,DTC,,,,#B04835
+RB Media,H.I.G. Capital and Francisco Partners,Parent,,,,Private,,#7C4991
+Audiolib,Hachette Livre,Retailer,,DTC,,,,#A54432
+Hachette Livre,Lagardère Group,Parent,,,,,,#743E8A
+MLOL,Horizons Unlimited srl,Retailer,,DTC,,,,#9A3F2E
+HumbleBundle,IGN Entertainment,Retailer,,DTC,,,,#8F3B2B
+Chapters Bookstore,Indigo Books and Music,Retailer,,DTC,,,,#EFB4A9
+Napster,Infinite Reality,Retailer,,DTC,,,,#E78C7B
+CoreSource by Ingram,Ingram Content Group,Distributor,,B2B,,,,#072C34
+Ingram Content Group,Ingram Industries,Parent,,,,,,#521969
+Lantern,John Marshall Media,Retailer,,DTC,,,,#E58371
+Lantern Audio,John Marshall Media,Distributor,,B2B,,,,#06262D
+One Equity Partners,JP Morgan Chase,Parent,,,,,,#4D1863
+Saxo,JP/Politikens Hus,Retailer,,DTC,,,,#E37B68
+Radish Fiction,Kakao Entertainment,Retailer,,B2B,,,,#E1735E
+OverDrive,KKR,Parent,,B2B,,,,#49165E
+Lazy Joy,"Lazy Joy Digital Technology Company, Ltd.",Retailer,,DTC,,,,#E06B55
+Litres,Litres Operations Limited,Retailer,,DTC,,,,#DE624B
+MyBook,Litres Operations Limited,Retailer,,DTC,,,,#D1563F
+Palace Marketplace,Lyrasis,Retailer,,Institutional,,,,#C6513B
+Axiell Group AB,Maxito AB,Parent,,,,,,#441558
+Firebrand Technologies,"Media Do Co., Ltd",Distributor,,B2B,,,,#A5CED7
+Junior Library Guild,Media Source Inc,Retailer,,Institutional,,,,#BB4D38
+Hoopla,Midwest Tape,Retailer,,Institutional,,,,#B04835
+Mondadori,Mondadori Group,Retailer,,DTC,,,,#A54432
+Author Solutions,Najafi Companies,Parent,,,,,,#401452
+Cloudlibrary,OCLC,Retailer,,Institutional,,,,#9A3F2E
+Bibliotheca,One Equity Partners,Distributor,,B2B,,,,#6AADBC
+eReolen,OverDrive,Retailer,,Institutional,,,,#8F3B2B
+Libby,OverDrive,Retailer,,Institutional,,,,#843628
+Playaway,Penguin Random House,Retailer,,DTC,,,,#6E2D21
+Book of the Month,Pride Tree Holdings,Retailer,,DTC,,,,#63281E
+Bookbub,Pubmark,Retailer,,DTC,Aggregator & Recommender,,,#58241A
+Chirp,Pubmark,Retailer,,DTC,,,,#4D1F17
+Kobo,Rakuten,Retailer,,DTC,,,,#421B14
+Kobo Writing Life,Rakuten,Distributor,,DTC,,,,#4C9DAE
+Ascent Audio,RB Media,Publisher,,,,,,#2A5F54
+Author's Republic,RB Media,Distributor,,B2B,,,,#2C8CA0
+BookaVivo,RB Media,Publisher,,,,,,#3C8777
+Christian Audio,RB Media,Publisher,,,,,,#27574D
+Dreamscape,RB Media,Publisher,,,,,,#1F483F
+Éditions Thélème,RB Media,Publisher,,,,,,#3F8F7E
+GraphicAudio,RB Media,Publisher,,,,,,#2E675B
+HighBridge,RB Media,Publisher,,,,,,#235046
+Howes Audio,RB Media,Distributor,,B2B,,,,#3892A5
+Kalorama Audio,RB Media,Publisher,,,,,,#316F62
+RBmedia Verlag,RB Media,Publisher,,,,,,#439785
+Recorded Books,RB Media,Retailer,,DTC,,,,#F7D7D1
+Tantor Media,RB Media,Publisher,,,,,,#1C4038
+W. F. Howes Ltd,RB Media,Publisher,,,,,,#357769
+WaveSound,RB Media,Publisher,,,,,,#387F70
+Dipsea,RevenueCat,Retailer,,DTC,,,,#EFB4A9
+Sonolibro,Saga Egmont,Retailer,,DTC,,,,#E78C7B
+Everand,Scribd,Retailer,,DTC,,,,#E58371
+Scribl,Scribliotech,Retailer,,DTC,,,,#E37B68
+Playster,Softonic International S.A.,Retailer,,DTC,,,,#E1735E
+Lizhi,Sound Group Inc.,Retailer,,DTC,,,,#E06B55
+Findaway by Spotify,Spotify Technology S.A.,Distributor,,B2B,,,,#21859A
+Spotify,Spotify Technology S.A.,Retailer,,DTC,,,,#DE624B
+Boksy,Stabenfeldt AS,Retailer,,DTC,,,,#D1563F
+Dreame,STARY,Retailer,,DTC,,,,#C6513B
+WeHear,STARY,Retailer,,DTC,,,,#BB4D38
+Audiobooks.Co,Storytel Group,Retailer,,DTC,,,,#B04835
+Audiobooks.com,Storytel Group,Retailer,,DTC,,,,#A54432
+AudioLibros,Storytel Group,Retailer,,DTC,,,,#9A3F2E
+Mofibo,Storytel Group,Retailer,,DTC,,,,#8F3B2B
+Nextory,Storytel Group,Retailer,,DTC,,,,#843628
+Storytel,Storytel Group,Retailer,,DTC,,,,#6E2D21
+Streetlib,"StreetLib USA, Inc.",Distributor,,B2B,,,,#14798E
+Streetlib Store,"StreetLib USA, Inc.",Retailer,,DTC,,,,#63281E
+Gardners Audio,The Little Group,Distributor,,B2B,,,,#137286
+Boomplay,Transsnet Music Limited,Retailer,,DTC,,,,#58241A
+eStories,TriPlay,Retailer,,DTC,,,,#4D1F17
+uLibrary,Ulverscroft,Retailer,,Institutional,,,,#421B14
+Leapfrog,VTech Holdings,Retailer,,DTC,,,,#F7D7D1
+Biblio,WeDoBooks,Retailer,,Institutional,,,Library,#EFB4A9
+Bookbites,WeDoBooks,Retailer,,Institutional,,,Educational Institutions,#E78C7B
+Libreka,WeDoBooks,Distributor,,B2B,,,,#126C7F
+Publizon,WeDoBooks,Distributor,,B2B,,,,#116677
+Audioteka,Wirtualna Polska Holding,Retailer,,DTC,,,,#E58371
+Audioteka Kids,Wirtualna Polska Holding,Retailer,,DTC,,,,#E37B68
+Tempt,WRomance,Retailer,,DTC,,,,#E1735E
+YouTube Music,Youtube,Retailer,,DTC,,,,#E06B55
+Media Source Inc,The Vistria Group,Parent,,,,,,
+PermaBound,Hertzberg-New Method Inc.,Retailer,,Institutional,,,Educational Institutions,
+Combitel,CombiTel Group,Retailer,,,,,,
+BorrowBox,Bolinda,Retailer,,B2B,,,Library,
+Bookmate,,Retailer,,DTC,,Private,,#6E2D21
+24Symbols,,Retailer,,DTC,,Private,,#843628
+3 Leaf Group,,Retailer,,Institutional,,Private,,#6E2D21
+Access Industries,,Parent,,,,Private,,#6B3383
+Advent International,,Parent,,,,Private,,#63277C
+Ahold Delhaize,,Parent,,,,Public,,#561B6F
+Alexander,,Retailer,,DTC,,Private,,#63281E
+Alliance Entertainment Holding Corp,,Parent,,,,Private,,#521969
+Alphabet,,Parent,,,,Public,,#4D1863
+Amazon,,Parent,,,,Private,,#49165E
+"American Public Education, Inc.",,Parent,,,,Public,,#441558
+Anyplay,,Retailer,,DTC,,Private,,#58241A
+Apple,,Parent,,,,Public,,#401452
+Arabookverse,,Publisher,Distributor,,,Private,,#4FA492
+Audiobooks NZ,,Retailer,,DTC,,Private,,#4D1F17
+Audiobrary,,Retailer,,DTC,,Private,,#421B14
+Authors A.I,,Parent,,,,Private,,#561B6F
+Bajalibros,,Retailer,,DTC,,Private,,#F7D7D1
+Baker & Taylor,,Distributor,,B2B,,Private,,#105F70
+Beat Technology,,Tech,,B2B,,Private,,#FFEFD1
+Beek,,Retailer,,DTC,,Private,,#EFB4A9
+Behear,,Retailer,,DTC,,Private,,#E78C7B
+Bertelsmann,,Parent,,,,Private,,
+Bertelsmann and Holtzbrinck Publishing Group,,Parent,,,,Private,,#3B124C
+Bidi,,Retailer,,DTC,,Private,,#E58371
+Blackstone Publishing,,Parent,,,,Private,,#371146
+Block,,Parent,,,,Private,,#320F40
+Bog&ide,,Retailer,,DTC,,Private,,#E37B68
+Bokusgruppen AB,,Parent,,,,Public,,#2E0E3B
+Bolinda,,Parent,,,,Private,,#290D35
+Bonnier AB,,Parent,,,,Private,,#240B2F
+Book Lender,,Parent,Retailer,,,Private,,#200A29
+Book.io,,Retailer,,DTC,,Private,,#E1735E
+Bowker,,Retailer,,DTC,,Private,,#E06B55
+Brodart Audio,,Retailer,,DTC,,Private,,#DE624B
+Calm Radio,,Retailer,,DTC,,Private,,#D1563F
+Campsoft,,Parent,,,,Private,,
+Chicago Review Press,,Parent,Retailer,,,Private,,#1B0823
+"China National Publications Import and Export (Group) Co., Ltd (CNEP)",,Parent,,,,State-Owned,,#D7C7DD
+Christian Audio Distribution,,Distributor,,B2B,,Private,,#0F5968
+CLIQ Digital,,Retailer,,DTC,,Private,€243m,#C6513B
+CloudAloud,,Retailer,,DTC,,Private,,#BB4D38
+CombiTel Group,,Parent,,,,Private,,
+Comcast Xfinity,,Parent,,,,Public,,#B498C0
+Costco,,Retailer,,DTC,,Public,,#B04835
+Cross Current Digital,,Retailer,,DTC,B2B,Private,,#A54432
+De Marque,,Parent,,,,Private,,#8C609E
+Demarque,,Parent,,,,Private,,
+Deutsche National Bibliothek,,Retailer,,Institutional,,Private,,#9A3F2E
+DFMI,,,,,,Private,,#FFEFD1
+digiDirect,,Parent,,,,Private,,#845598
+Digital Public Library of America,,Retailer,,Institutional,,Private,,#8F3B2B
+Digitalbook,,Parent,,,,Private,,#7C4991
+DME Media,,Parent,,,,Private,,#743E8A
+Dragonfly FM,,Retailer,,DTC,,Private,,#843628
+eBiblio,,Library System,,DTC,,Private,,
+EBSCO Industries,,Parent,,,,Private,,#6B3383
+eChristian,,Retailer,,DTC,,Private,,
+EKZ Bibliotheksservice GmbH,,Parent,,,,Private,,#63277C
+Elliott Advisors,,Parent,,,,Private,,#561B6F
+Empik,,Retailer,,DTC,,Private,,#6E2D21
+Epic Audio Video,,Retailer,,DTC,,Private,,#63281E
+Feiyr,,Distributor,,B2B,,Private,,#0E5361
+Feltrinelli Group,,Parent,,,,Private,,#521969
+Fictionwide,,Distributor,,B2B,,Private,,#0D4C59
+Follett Corporation,,Parent,,,,Private,,#4D1863
+Fonos,,Retailer,,DTC,,Private,,#58241A
+Fountain,,Retailer,,DTC,,Private,,#4D1F17
+Fundamentum,,Parent,,,,Private,,#49165E
+Gandhi,,Retailer,,DTC,,Private,,#421B14
+GEMA,,Parent,,,,Private,,#441558
+Glassboxx,,Retailer,,B2B,DTC,Private,,#F7D7D1
+Glose,,Retailer,,B2B,DTC,Private,,#EFB4A9
+Go1,,Parent,,,,Private,,#401452
+GrupoVida,,Retailer,,DTC,,Private,,
+H.I.G. Capital and Francisco Partners,,Parent,,,,Private,,
+Hertzberg-New Method Inc.,,Parent,,,,Private,,
+hibooks,,Retailer,,DTC,,Private,,#E78C7B
+Horizons Unlimited srl,,Parent,,,,Private,,#3B124C
+Hummingbird Digital Media,,Distributor,,B2B,,Private,,#08333C
+IG Publishing,,Retailer,,DTC,,Private,,
+IGN Entertainment,,Parent,,,,Private,,#371146
+Il Narratore Audiolibri,,Retailer,,DTC,,Private,,#E58371
+Indigo Books and Music,,Retailer,Parent,DTC,,Private,,#E37B68
+Infinite Reality,,Parent,,,,Private,,
+Ingram Industries,,Parent,,,,Private,,#320F40
+Instaread,,Retailer,,DTC,,Private,,
+Instituto Cervantes,,Library System,,DTC,,Private,,#FFDC98
+John Marshall Media,,Parent,,,,Private,,#2E0E3B
+JP Morgan Chase,,Parent,,,,Public,,#290D35
+JP/Politikens Hus,,Parent,,,,Private,,#240B2F
+Kakao Entertainment,,Parent,,,,Private,,#200A29
+Kids Radio,,Retailer,,DTC,,Private,,#E1735E
+KKR,,Parent,,,,Private,,#1B0823
+Lagardère Group,,Parent,,,,Public,,
+"Lazy Joy Digital Technology Company, Ltd.",,Parent,,,,Private,,#D7C7DD
+Leamos,,Retailer,,DTC,,Private,,#E06B55
+Learn Out Loud,,Retailer,,DTC,,Private,,#DE624B
+Legible,,Retailer,,DTC,,Private,,#D1563F
+Library and Archives Canada,,Library System,,DTC,,Private,,#FECC6A
+Librería Porrúa,,Retailer,,DTC,,Private,,#C6513B
+Librivox,,Retailer,,DTC,,Private,,#BB4D38
+Libro.fm,,Retailer,,DTC,,Private,,#B04835
+ListenerU,,Retailer,,DTC,,Private,,#A54432
+Litres Operations Limited,,Parent,,,,Private,,#B498C0
+Loyal Books,,Retailer,,DTC,,Private,,#9A3F2E
+Lyrasis,,Parent,,,,Nonprofit,,#8C609E
+Mackin,,Retailer,Distributor,B2B,,Private,,#8F3B2B
+Maxito AB,,Parent,,,,Private,,
+"Media Do Co., Ltd",,Parent,,,,Private,,#845598
+Midwest Tape,,Parent,,,,Private,,#7C4991
+Milkbox,,Retailer,,DTC,,Private,,#843628
+Mondadori Group,,Parent,,,,Private,,#743E8A
+My Audiobook Library,,Retailer,,DTC,,Private,,
+Najafi Companies,,Parent,,,,Private,,
+OCLC,,Parent,,,,Nonprofit,,#6B3383
+Odilo,,Retailer,,Institutional,,Private,,#6E2D21
+OliveTree,,Retailer,,DTC,,Private,Educational Institutions,
+OneAudiobooks,,Retailer,,DTC,,Private,,#63281E
+Perlego,,Retailer,,B2B,,Private,,#58241A
+Podimo,,Parent,,,,Private,,#63277C
+Pozotron Studio,,Software,,B2B,,Private,,#FFEFD1
+Pride Tree Holdings,,Parent,,,,Private,,#561B6F
+Publish Drive,,Distributor,,B2B,,Private,,#0C4652
+Pubmark,,Parent,,,,Private,,#521969
+Pushkin,,Retailer,,DTC,,Private,,#4D1F17
+Quantified Reading,,Retailer,,DTC,,Private,,#421B14
+Raava Rahmat,,Retailer,,DTC,,Private,,#F7D7D1
+Rakuten,,Parent,,,,Public,,#4D1863
+RevenueCat,,Parent,,,,Private,,#49165E
+Rock Island Books,,Retailer,,DTC,,Private,,#EFB4A9
+Saga Egmont,,Parent,,,,Private,,#441558
+Scribd,,Parent,,,,Private,,#401452
+Scribliotech,,Parent,,,,Private,,#3B124C
+Simply Audiobook,,Retailer,,DTC,,Private,,#E78C7B
+Skeelo,,Retailer,,DTC,,Private,,#E58371
+Skillsoft,,Retailer,,DTC,,Publc,,#E37B68
+Slate Audiobooks,,Retailer,,DTC,,Private,,#E1735E
+Snapplify,,Retailer,,DTC,,Private,,#E06B55
+Softonic International S.A.,,Parent,,,,Private,,#371146
+Sound Group Inc.,,Parent,,,,Public,,#320F40
+Sounded,,Retailer,,DTC,,Private,,#DE624B
+Speechify,,Retailer,,DTC,,Private,,#D1563F
+Spiracle,,Retailer,,DTC,,Private,,#C6513B
+Spoken Realms,,Distributor,,B2B,,Private,,#0B404B
+Spotify Technology S.A.,,Parent,,,,Public,,#2E0E3B
+Stabenfeldt AS,,Parent,,,,Private,,#290D35
+StarGlow Media,,Retailer,,DTC,,Private,,#BB4D38
+STARY,,Parent,,,,Private,,#240B2F
+Storyfair,,Retailer,,DTC,,Private,,#B04835
+Storynory,,Retailer,,DTC,,Private,,#A54432
+Storytel Group,,Parent,,,,Private,,#200A29
+"StreetLib USA, Inc.",,Parent,,,,Private,,#1B0823
+Superfonik,,Retailer,,DTC,,Private,,#9A3F2E
+The Little Group,,Parent,,B2B,,Private,,#D7C7DD
+The Vistria Group,,Parent,,,,Private,,
+Tiger Books,,Retailer,,DTC,,Private,,#F7D7D1
+tolino,,Retailer,,,,Private,,#8F3B2B
+Transsnet Music Limited,,Parent,,,,Private,,#B498C0
+TriPlay,,Parent,,,,Private,,#8C609E
+TuneIn,,Retailer,,DTC,,Private,,#843628
+Ubook,,Parent,,,,Private,,#845598
+UK Book Publishing,,Distributor,,B2B,,Private,,#093943
+Ulverscroft,,Parent,Retailer,B2B,DTC,Private,,#7C4991
+Voxa,,Retailer,,DTC,,Private,,#6E2D21
+VTech Holdings,,Parent,,,,Private,,
+Walmart,,Retailer,,DTC,,Public,,
+WeDoBooks,,Parent,,DTC,,Private,,#743E8A
+Wheelers,,Retailer,,DTC,,Private,,#63281E
+Wirtualna Polska Holding,,Parent,,,,Private,,#6B3383
+WRomance,,Parent,,,,Private,,#63277C
+XigXag,,Retailer,,DTC,,Private,,#58241A
+Yoto,,Retailer,,DTC,,Private,,#4D1F17
+YouScribe,,Retailer,,DTC,,Private,,#421B14
